@@ -4,7 +4,7 @@
 
 
 
-Hey Guys ❤, we DSC GGV has conducted the [Hacktober Fest-2020](https://hacktoberfest.digitalocean.com/). So still if you have any Projects regarding Android or Web based technology or you want to modify/resolve(any bugs) of previous Projects then you to follow the [Contribution Guidelines](#Contribution-Guidelines).
+Hey Guys ❤, we DSC GGV has conducted the [Hacktober Fest-2020](https://hacktoberfest.digitalocean.com/). So still if you have any Projects regarding Android or Web based technology or you want to modify/resolve(any bugs) of previous Projects then you have to follow the [Contribution Guidelines](#Contribution-Guidelines).
 
 <img src="https://github.com/Developer-Student-Clubs-GGV/Competitive-Programming-Club-Projects/blob/master/Assets/hacktober%20Dockship%20%F0%9F%92%AF.png" height="500">
 
@@ -14,9 +14,9 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 The entire details can be viewed here - [Hacktober Fest - 2020](https://hacktoberfest.digitalocean.com/)
 
-## Contribution Guidelines :+1:
-- **Step 1** - Fork the this repository or project repository.
-- **Step 2** - Clone the repository to your local machine. ```(git clone)```
+## Contribution Guidelines
+- **Step 1** - Fork the project repository.
+- **Step 2** - Clone the repository to your local machine. ```(git clone <URL of repository>)```
 - **Step 3** - Resolve the bugs, mentions provided in the Issues section of the repository. *Also add a description of what changes you have done*.
 
   OR
