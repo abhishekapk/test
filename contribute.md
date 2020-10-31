@@ -18,7 +18,8 @@ The entire details can be viewed here - [Hacktober Fest - 2020](https://hacktobe
 - **Step 1** - Fork the this repository or project repository.
 - **Step 2** - Clone the repository to your local machine. ```(git clone)```
 - **Step 3** - Resolve the bugs, mentions provided in the Issues section of the repository. *Also add a description of what changes you have done*.
-<center>OR</center>
+
+  OR
 
 - **Step 3** - Make an issue of the same in the repository.
 - **Step 4** - Add the changes to your repository.
